@@ -26,7 +26,5 @@ namespace LiskovSubsitutePrinciple
         {
             return price;
         }
-
-
     }
 }
